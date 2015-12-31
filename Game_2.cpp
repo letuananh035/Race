@@ -6,6 +6,7 @@
 #include <time.h>
 #define ROW 19
 #define COL 10
+
 int Map[ROW][COL] = { 0 };
 char Tile[ROW][20];
 int Player[4][3] = {{0,1,0},
